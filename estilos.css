@@ -1,0 +1,53 @@
+body {
+    line-height: 1.5;
+  }
+  
+  a:hover {
+    color: black;
+  }
+  
+  #Recursos {
+    background-color: orange;
+    padding: 8px;
+  }
+  
+  #RecursosL {
+    text-decoration: none;
+    color: white;
+  }
+  
+  #RecursosL:hover {
+    color: black;
+  }
+  
+  #Cabecera {
+    background-color: green;
+    padding: 20px;
+    color: white;
+    text-align: center;
+  }
+  
+  #Copyright {
+    background-color: rgb(20, 0, 107);
+    color: white;
+    padding: 15px;
+  }
+  
+  #Cuerpo {
+    padding: 20px;
+    background-color: white;
+    margin: 20px;
+    border-radius: 20px;
+    border: 1px solid orangered;
+  }
+  
+  .enlacesRecursos {
+    background-color: green;
+    text-decoration: none;
+    color: white;
+  } 
+  
+  .enlacesRecursos:hover {
+    color: black;
+    text-decoration: underline;
+  }
